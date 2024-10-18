@@ -1,5 +1,4 @@
 # -NHOM-20-NO1
-GROUP_10-OOP-N03 
 # Hệ Thống Quản Lý Thư Viện
 
 ## Giới Thiệu Dự Án
